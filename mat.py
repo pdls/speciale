@@ -2,6 +2,8 @@ import matplotlib.pyplot as plt
 #import math
 import numpy as np
 
+# DETTE ER EN KOMMENTAR
+
 plt.close('all') # close all figures
 
 x = np.linspace(np.pi/2, np.pi, 1001)
